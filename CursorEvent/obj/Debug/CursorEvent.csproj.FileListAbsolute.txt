@@ -1,0 +1,5 @@
+C:\Users\Sheriff nnr\Desktop\Gaze-Controlled Screen-Magnifying Application\CursorEvent\bin\Debug\CursorEvent.dll
+C:\Users\Sheriff nnr\Desktop\Gaze-Controlled Screen-Magnifying Application\CursorEvent\bin\Debug\CursorEvent.pdb
+C:\Users\Sheriff nnr\Desktop\Gaze-Controlled Screen-Magnifying Application\CursorEvent\obj\Debug\CursorEvent.csproj.CoreCompileInputs.cache
+C:\Users\Sheriff nnr\Desktop\Gaze-Controlled Screen-Magnifying Application\CursorEvent\obj\Debug\CursorEvent.dll
+C:\Users\Sheriff nnr\Desktop\Gaze-Controlled Screen-Magnifying Application\CursorEvent\obj\Debug\CursorEvent.pdb
