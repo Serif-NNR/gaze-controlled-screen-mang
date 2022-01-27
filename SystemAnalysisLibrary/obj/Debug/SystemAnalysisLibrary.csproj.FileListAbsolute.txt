@@ -1,0 +1,6 @@
+C:\Users\Sheriff nnr\Desktop\Gaze-Controlled Screen-Magnifying Application\SystemAnalysisLibrary\bin\Debug\SystemAnalysisLibrary.dll
+C:\Users\Sheriff nnr\Desktop\Gaze-Controlled Screen-Magnifying Application\SystemAnalysisLibrary\bin\Debug\SystemAnalysisLibrary.pdb
+C:\Users\Sheriff nnr\Desktop\Gaze-Controlled Screen-Magnifying Application\SystemAnalysisLibrary\obj\Debug\SystemAnalysisLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Sheriff nnr\Desktop\Gaze-Controlled Screen-Magnifying Application\SystemAnalysisLibrary\obj\Debug\SystemAnalysisLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sheriff nnr\Desktop\Gaze-Controlled Screen-Magnifying Application\SystemAnalysisLibrary\obj\Debug\SystemAnalysisLibrary.dll
+C:\Users\Sheriff nnr\Desktop\Gaze-Controlled Screen-Magnifying Application\SystemAnalysisLibrary\obj\Debug\SystemAnalysisLibrary.pdb
